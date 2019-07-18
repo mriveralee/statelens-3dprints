@@ -2,7 +2,9 @@
 
 # Research 3D Models for StateLens (UIST 2019)
 
-This is the 3D Model repository for `StateLens: A Reverse Engineering Solution for Making Existing Dynamic Touchscreens Accessible`. It contains the models that were used in the publication to enable risk-free exploration on dynamic touchscreens. More information will be available soon.
+This is the 3D Model repository for `StateLens: A Reverse Engineering Solution for Making Existing Dynamic Touchscreens Accessible`. It contains the models that were used in the publication to enable risk-free exploration on dynamic touchscreens. 
+
+More information and the publication will be available soon.
 
 
 
